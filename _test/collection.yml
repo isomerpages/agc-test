@@ -2,4 +2,5 @@ collections:
   test:
     output: true
     order:
+      - page2.md
       - page.md
