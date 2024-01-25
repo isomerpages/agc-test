@@ -2,4 +2,4 @@ collections:
   test:
     output: true
     order:
-      - test form.md
+      - page.md
