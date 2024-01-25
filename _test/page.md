@@ -9,4 +9,4 @@ description: ""
 
 
 <!-- Change the width and height values to suit you best -->
-<iframe style="width:100%;height:100%" src="https://form.gov.sg/65b28a396f26938cf7d90f6f" id="iframe"></iframe>
+<iframe style="width:100%;height:1000px" src="https://form.gov.sg/65b28a396f26938cf7d90f6f" id="iframe"></iframe>
