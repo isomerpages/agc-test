@@ -6,3 +6,5 @@ links:
     url: /example-page/
   - title: Forms
     collection: test
+  - title: Publications
+    resource_room: true
