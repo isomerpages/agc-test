@@ -1,10 +1,18 @@
 logo: /images/agc_test.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Forms
+  - title: Home
+    url: www.agc.gov.sg
+  - title: Our Roles
+    collection: example-folder
+  - title: Legal Processes
     collection: test
-  - title: Publications
+  - title: Newsroom
     resource_room: true
+  - title: Resources
+    collection: example-folder
+  - title: Careers
+    collection: example-folder
+  - title: About Us
+    collection: example-folder
+  - title: Contact Us
+    collection: example-folder
