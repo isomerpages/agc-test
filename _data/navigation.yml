@@ -1,7 +1,7 @@
 logo: /images/agc_test.jpg
 links:
   - title: Home
-    url: www.agc.gov.sg
+    url: /Home
   - title: Our Roles
     collection: example-folder
   - title: Legal Processes
