@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/agc_homepage_banner.jpg
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
